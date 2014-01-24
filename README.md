@@ -1,7 +1,7 @@
 Match-3 game
 =========
 
-![Screenshot](screen.png)
+![Screenshot](screen.jpg)
 
 A quick exploration into SDL 2.0 library, and a toy project for refactoring C++ code.
 
